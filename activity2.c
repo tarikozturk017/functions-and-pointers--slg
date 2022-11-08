@@ -5,13 +5,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-struct Employee {
-    int employeeId;
-    int positionId;
-    char department;
-    double salary;
-};
-
 // In part2, update your part1 according to the instructions below
 
 
